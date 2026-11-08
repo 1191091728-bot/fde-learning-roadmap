@@ -1,15 +1,15 @@
 # 🚀 FDE 学习路线图
 
-> 从 **PM + Vibe Coding** 到 **Forward Deployed Engineer（前沿部署工程师）** 的转型路线图
+> 从 **AI 产品 × 内容增长 + Vibe Coding** 到 **Forward Deployed Engineer（前沿部署工程师）** 的转型路线图
 > 参考成长标杆：[阿酥 / LofiSu](https://github.com/LofiSu)（字节跳动 DeerFlow 核心维护者）
 
 [![状态](https://img.shields.io/badge/状态-进行中-0E5C50?style=for-the-badge)](https://github.com/1191091728-bot/fde-learning-roadmap)
 [![目标](https://img.shields.io/badge/目标-FDE%20实习%20→%20全职-B89254?style=for-the-badge)](https://github.com/1191091728-bot/fde-learning-roadmap)
-[![起点](https://img.shields.io/badge/起点-1.5%20年%20PM%20%2B%20Vibe%20Coding-E4EEEB?style=for-the-badge)](https://github.com/1191091728-bot)
+[![起点](https://img.shields.io/badge/起点-%E5%86%85%E5%AE%B9%E5%A2%9E%E9%95%BF%20%2B%20Vibe%20Coding-E4EEEB?style=for-the-badge)](https://github.com/1191091728-bot)
 
 ## 🎯 这是什么
 
-这是一份**公开的个人转型路线图**——把"从产品经理转 FDE"这件事拆成可以打卡的阶段、任务和交付物。开源它有两个目的：
+这是一份**公开的个人转型路线图**——把"从 AI 产品实践转 FDE"这件事拆成可以打卡的阶段、任务和交付物。开源它有两个目的：
 
 1. **督促自己**：进度公开，没有借口拖延
 2. **给求职加分**：FDE 岗位看重"用 AI 解决问题的证据"，这份仓库本身就是证据
@@ -22,7 +22,7 @@ FDE（Forward Deployed Engineer）是当前 AI 圈最火的岗位：招聘需求
 
 | FDE 要求 | 我的现状 | 差距 |
 |---------|---------|------|
-| 理解客户场景与需求 | ✅ 1.5 年上市公司 PM · 200 万+ 用户 | 无 |
+| 理解客户场景与需求 | ✅ Health Timeline 产品负责人 · 用户调研 + MVP 落地 | 无 |
 | 用户研究方法 | ✅ 24 问卷 + 8 访谈 · 盲评 9.2/10 | 无 |
 | Vibe Coding 快速造物 | ✅ 3 个独立 Demo（最短 4 小时） | 无 |
 | Python 编程基础 | ⚠️ 会一点 / 靠 AI 写 | **需系统补** |
@@ -102,4 +102,4 @@ FDE（Forward Deployed Engineer）是当前 AI 圈最火的岗位：招聘需求
 - [ ] 拿到 FDE 实习 offer
 
 ---
-*© 2026 嘿哈土豆 · 徐玉欣 · 从 PM 到 FDE 的路上*
+*© 2026 嘿哈土豆 · 徐玉欣 · 从 AI 产品到 FDE 的路上*
